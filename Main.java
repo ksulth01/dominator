@@ -112,7 +112,7 @@ public class Main {
 					break;
 				}
 				
-				library.SAVE();
+				library.save(); //SAVE to save -- SUL
 			}			
 		} catch (RuntimeException e) {
 			output(e);
@@ -120,7 +120,9 @@ public class Main {
 		output("\nEnded\n");
 	}	
 
-		private static void FINES() {
+	
+	private static void fines() //FINES to fines -- SUL
+	{
 		new PayFineUI(new PayFineControl()).RuN();		
 	}
 
@@ -217,6 +219,4 @@ public class Main {
 	private static void output(Object object) {
 		System.out.println(object);
 	}
-
-	
 }
