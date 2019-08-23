@@ -1,7 +1,7 @@
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 
-//author by Sulthan --SUL
+//author by Sulthan ---SUL
 public class Main {
 	
 	private static Scanner IN;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//author by Sulthan --SUL
+//author by Sulthan ---SUL
 public class FixBookUI 
 {
 
