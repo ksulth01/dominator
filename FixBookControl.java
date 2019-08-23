@@ -1,5 +1,6 @@
 public class FixBookControl {
 	
+	//author by Sulthan --SUL
 	private FixBookUI UI;
 	private enum ControlState { INITIALISED, READY, FIXING }; //CONTROL_STATE to ControlState -- SUL
 	private ControlState state; //StAtE to state -- SUL
